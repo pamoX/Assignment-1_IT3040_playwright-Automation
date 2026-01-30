@@ -8,7 +8,7 @@ This repository contains Playwright tests that validate conversion of Singlish t
 
 ## Contents
 
-- `tests/all_fun.spec.js` — Primary test suite with positive functional tests, negative/expected-failure tests, and UI checks.
+- `tests/IT23423688.spec.js` — Primary test suite with positive functional tests, negative/expected-failure tests, and UI checks.
 - `tests/example.spec.js` — Playwright example tests (title + get started).
 - `playwright.config.js` — Playwright Test configuration (reporter, projects, retries, testDir, etc.).
 - `package.json` — Project metadata and devDependencies (`@playwright/test`, `@types/node`).
